@@ -9,7 +9,13 @@ h1{
 p{
     font-family: cursive;
 }
-h2{
+ section h2{
     font-family: fantasy;
     font-size: 15px;
+}
+@media (min-width:758px){
+ h2{ 
+     font-size: 50px;
+
+}
 }
